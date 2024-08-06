@@ -1,4 +1,5 @@
-![Linkedin 1](https://github.com/ritik-dt/ritik-dt/assets/103274284/2f1346f5-eac0-413c-aca8-df960bdb2538)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![Linkedin 1]([https://github.com/ritik-dt/ritik-dt/assets/103274284/2f1346f5-eac0-413c-aca8-df960bdb2538](https://media.licdn.com/dms/image/D5616AQFT8R1DMnYlHA/profile-displaybackgroundimage-shrink_350_1400/0/1696001238273?e=1728518400&v=beta&t=9PwYkKP3L81dLefPJMJw3AOJgJDEHWk7It8DoMvSv5s))
 <hr>
 <h1 align="center">Hi , I'm <b>Ritik Tembhurne</b></h1>
 <h3 align="center">A passionate software engineer from India</h3>
