@@ -4,17 +4,11 @@
 <hr>
 <h3 align="center">A passionate software engineer from India</h3>
 <h4 align="center">To pursue my career in a reputable company where I can use my technical knowledge to the best use and also to improve my skills to add more value to my life as well as for organization. Good analytical skill coupled with quick grasping ability and adaptability helps me to handle any given situation with ease and perfection.</h4>
-
-
 <hr>
-
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikcoding&label=Profile%20views&color=0e75b6&style=flat" alt="ritikcoding" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **ritiktembhurne512004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
