@@ -19,8 +19,8 @@
 <hr>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ritik-dt&show_icons=true&locale=en" alt="ritikcoding" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik-dt&" alt="ritikcoding" /></p>
-<hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik-dt&show_icons=true&locale=en&layout=compact" alt="ritikcoding" /></p>
+<hr> 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
