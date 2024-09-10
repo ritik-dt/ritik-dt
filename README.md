@@ -5,7 +5,7 @@
 <h3 align="center">A passionate software engineer from India</h3>
 <h4 align="center">To pursue my career in a reputable company where I can use my technical knowledge to the best use and also to improve my skills to add more value to my life as well as for organization. Good analytical skill coupled with quick grasping ability and adaptability helps me to handle any given situation with ease and perfection.</h4>
 <hr>
-<img align="right" alt="coding" width="300" autoplay src="[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)">
+<img align="right" alt="coding" width="300" autoplay src"[[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
