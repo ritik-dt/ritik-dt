@@ -1,4 +1,4 @@
-![MasterHead](https://www.linkedin.com/in/ritik-tembhurne-6a757b238/overlay/background-image/)
+![MasterHead](./Linkedin 1.jpg)
 
 <hr>
 <h1 align="center">Hi , I'm <b>Ritik Tembhurne</b></h1>
