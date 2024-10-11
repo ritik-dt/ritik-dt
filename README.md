@@ -10,7 +10,7 @@
 <img align="right" alt="coding" width="300" autoplay src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h3 align="left">Connect with me:</h3>
 <img width="100" src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" >
-<img src="./images/decorations/coding-thumbnail.png" alt="coding decoration button">
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ritik-tembhurne-6a757b238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritik-tembhurne-6a757b238/" height="30" width="40" /></a>
 <a href="https://instagram.com/ritik_dt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritik_dt" height="30" width="40" /></a>
