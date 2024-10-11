@@ -1,4 +1,6 @@
-![MasterHead](./Linkedin 1.jpg)
+<p align="center">
+ <img width="1000" src="Linkedin 1.jpg" alt="head"/>
+</p>
 
 <hr>
 <h1 align="center">Hi , I'm <b>Ritik Tembhurne</b></h1>
