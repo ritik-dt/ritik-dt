@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQFT8R1DMnYlHA/profile-displaybackgroundimage-shrink_350_1400/0/1696001238273?e=1728518400&v=beta&t=9PwYkKP3L81dLefPJMJw3AOJgJDEHWk7It8DoMvSv5s)]
+![MasterHead](https://www.linkedin.com/in/ritik-tembhurne-6a757b238/overlay/background-image/)
 
 <hr>
 <h1 align="center">Hi , I'm <b>Ritik Tembhurne</b></h1>
